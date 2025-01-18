@@ -5,6 +5,7 @@
 <h2>Screenshot</h2>
 ![](Screenshot.gif)
 
-![Uploading Screenshot.gif…]()
+
+![Screenshot](https://github.com/user-attachments/assets/87dcf021-9274-4f49-ae35-2e33522bea0f)
 
 
